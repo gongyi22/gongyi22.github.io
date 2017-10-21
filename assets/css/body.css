@@ -1,0 +1,137 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* Body start here */
+
+.sizing
+{
+  max-width: 100%;
+  transition: 0.5s ease-in-out;
+}
+
+
+.container
+{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 10%;
+  margin-left: 7%;
+  margin-right: 7%;
+  position: absolute;
+  top:25%;
+
+}
+
+.col1of2
+{
+  flex:0 0 45%;
+  margin-top: 2%;
+  margin-right: 2%;
+}
+
+.sizing:hover
+{
+  opacity: 0.2;
+}
+
+/*hover story*/
+
+p {
+  margin: 0;
+  font-size: 150%;
+  color: rgb(240, 42, 24);
+  font-weight: lighter;
+  z-index: -1;
+  text-align: center;
+}
+
+
+.istd1
+{
+ position: relative;
+ top:-8vh;
+}
+
+
+.iddesign1
+{
+  position: relative;
+  top:-8vh;
+}
+
+.logodesign1
+{
+  position: relative;
+  top:-8vh;
+}
+
+.app1
+{
+  position: relative;
+  top:-8vh;
+}
+
+.posterf1
+{
+  position: relative;
+  top:-8vh;
+}
+
+.posterc1
+{
+  position: relative;
+  top:-8vh;
+}
+
+.project71
+{
+  position: relative;
+  top:-8vh;
+}
+
+.project81
+{
+  position: relative;
+  top:-8vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body end*/
