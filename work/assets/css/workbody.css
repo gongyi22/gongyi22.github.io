@@ -53,16 +53,30 @@
   margin-right: 7%;
 }
 
-.proj
+.sample1
 {
   flex:0 0 100%;
   margin-bottom: 12%;
 }
 
-.sample
+.sample2
 {
   flex:0 0 100%;
+  margin-bottom: 12%;
 }
+
+.sample3
+{
+  flex:0 0 100%;
+  margin-bottom: 12%;
+}
+
+.sample4
+{
+  flex:0 0 100%;
+
+}
+
 
 .line
 {
