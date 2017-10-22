@@ -2,7 +2,14 @@
   box-sizing: border-box;
 }
 
+.work a
+{
+  color:rgb(240, 42, 24);
+}
 
+.name a {
+  color:rgb(240, 42, 24);
+}
 
 /* Body start here */
 
@@ -31,6 +38,7 @@
   line-height: 150%;
   color: rgb(103, 103, 103);
   padding-right: 45%;
+  margin-bottom: 15%;
 }
 
 
@@ -38,7 +46,7 @@
 .display
 {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap:wrap;
   align-items: center;
   justify-content: space-around;
   margin-left: 7%;
@@ -47,8 +55,26 @@
 
 .proj
 {
-  max-width: 100%;
   flex:0 0 100%;
+  margin-bottom: 12%;
+}
+
+.sample
+{
+  flex:0 0 100%;
+}
+
+.line
+{
+  margin-top: 15%;
+  opacity: 0.5
+}
+
+
+.icon
+{
+  margin-top:1.5%;
+  max-width: 5%;
 }
 
 
