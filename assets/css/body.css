@@ -104,14 +104,12 @@ p {
 
 
 
+/*Js class*/
 
-
-
-
-
-
-
-
+.motion
+{
+  transform: scale(4);
+}
 
 
 
