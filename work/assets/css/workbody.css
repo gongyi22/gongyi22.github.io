@@ -74,9 +74,32 @@
 .sample4
 {
   flex:0 0 100%;
-
+  margin-bottom: 12%;
 }
 
+.sample5
+{
+  flex:0 0 100%;
+  margin-bottom: 12%;
+}
+
+.sample6
+{
+  flex:0 0 100%;
+  margin-bottom: 12%;
+}
+
+.sample7
+{
+  flex:0 0 100%;
+  margin-bottom: 12%;
+}
+
+.sample8
+{
+  flex:0 0 100%;
+
+}
 
 .line
 {
