@@ -31,16 +31,30 @@
 .col1of2
 {
   flex:0 0 45%;
-  margin-top: 2%;
-  margin-right: 2%;
+  margin: 2%;
+
 }
+
+
+/*hover*/
 
 .sizing:hover
 {
-  opacity: 0.2;
+  opacity: 0.04;
 }
 
-/*hover story*/
+
+
+
+
+
+
+
+
+
+
+
+/*hover ends*/
 
 p {
   margin: 0;
