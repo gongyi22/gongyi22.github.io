@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* Body start here */
+
+
+* {
+  box-sizing: border-box;
+}
+
+.contact a
+{
+  color:rgb(240, 42, 24);
+}
+
+.name a {
+  color:rgb(240, 42, 24);
+}
+
+/* Body start here */
+
+
+.container
+{
+  margin-top:10%;
+  margin-bottom: 5%;
+  padding-left:7%;
+  padding-right: 7%;
+}
+
+.title
+{
+  font-family: Quicksand, sans-serif;
+  font-weight: lighter;
+  font-size: 220%;
+  color: rgb(69, 69, 69);
+  margin-bottom: 1.5%;
+}
+
+.content
+{
+  font-family: quicksand,sans-serif;
+  font-size: 100%;;
+  line-height: 150%;
+  color: rgb(103, 103, 103);
+  padding-right: 45%;
+  margin-bottom: 15%;
+}
+
+
+
+
+.line
+{
+  margin-top: 15%;
+  opacity: 0.5
+}
+
+
+.icon
+{
+  margin-top:1.5%;
+  max-width: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body end*/
