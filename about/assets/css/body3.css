@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* Body start here */
+.about a
+{
+  color:rgb(240, 42, 24);
+}
+
+.name a {
+  color:rgb(240, 42, 24);
+}
+
+
+
+
+.container{
+  margin-top:10%;
+  margin-bottom: 5%;
+  padding-left:7%;
+  padding-right: 7%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+
+.title
+{
+  font-family: Quicksand, sans-serif;
+  font-weight: lighter;
+  font-size: 220%;
+  color: rgb(69, 69, 69);
+  margin-bottom: 1.5%;
+}
+
+.content
+{
+  font-family: quicksand,sans-serif;
+  font-size: 100%;;
+  line-height: 150%;
+  color: rgb(103, 103, 103);
+  padding-right: 0;
+  margin-bottom: 15%;
+  flex:0 0 35%;
+}
+
+.button{
+  height: 30px;
+  width:100%;
+  border-radius: 3px;
+  color:rgb(190, 190, 190);
+  align-items: center;
+  color: red;
+  cursor: pointer;
+  border: solid 1px rgb(255, 152, 152);
+}
+
+
+.selfie{
+  max-width: 85%;
+}
+
+
+
+.col1of2
+{
+  flex:0 0 45%;
+}
+
+.container2{
+  margin-top:60%;
+  margin-bottom:25%;
+  padding-left:7%;
+  padding-right:7%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body end*/
