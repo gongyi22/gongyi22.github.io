@@ -54,9 +54,9 @@
   border-radius: 3px;
   color:rgb(190, 190, 190);
   align-items: center;
-  color: red;
+  color: black;
   cursor: pointer;
-  border: solid 1px rgb(255, 152, 152);
+  border: solid 1px black;
 }
 
 
