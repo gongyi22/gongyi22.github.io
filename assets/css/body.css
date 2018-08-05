@@ -146,6 +146,18 @@ p {
 
 
 
+@media(min-width:600px){
+
+.container
+{
+  top:6%;
+}
+
+
+  
+} 
+
+
 
 
 
