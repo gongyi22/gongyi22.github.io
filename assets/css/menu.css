@@ -120,7 +120,7 @@ a {
 /*menu*/
 
 
-@media(min-width:800px){
+@media only screen and (max-width: 600px){
 
   .titlebar_wrapper{
     background-color: rgba(255, 255, 255, 1);
