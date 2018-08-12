@@ -40,7 +40,7 @@
 
 .sizing:hover
 {
-  opacity: 0.05;
+  opacity: 0.022;
 }
 
 
@@ -126,6 +126,20 @@ p {
   position: relative;
   top:-8vh;
 }
+
+
+.copyright
+{
+  position: fixed;
+  bottom: 1%;
+  left:1%;
+  font-family: Quicksand, sans-serif;
+  font-size: 80%;
+  color:rgba(255, 0, 0, 1);
+}
+
+
+
 
 
 

@@ -27,9 +27,9 @@ a {
 }
 
 .titlebar_wrapper{
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.88);
   width: 100%;
-  height: 26%;
+  height: 30%;
   position: fixed;
   z-index: 99;
 }
