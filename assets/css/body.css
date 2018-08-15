@@ -25,7 +25,6 @@
   margin-bottom: 10%;
   position: absolute;
   top:25%;
-
 }
 
 .col1of2
@@ -167,7 +166,8 @@ p {
 @media (min-device-width : 375px) and (max-device-width : 667px){
   .container
   {
-    top:6%;
+    margin-top:0%;
+    margin-bottom: 15%;
   }
 
   p {
@@ -178,8 +178,6 @@ p {
     z-index: -1;
     text-align: center;
   }
-
-
 
 
 
@@ -189,7 +187,8 @@ p {
 @media (min-device-width : 414px) and (max-device-width : 736px){
   .container
   {
-    top:6%;
+    margin-top:0%;
+    margin-bottom: 15%;
   }
 
 
@@ -201,7 +200,6 @@ p {
     z-index: -1;
     text-align: center;
   }
-
 
 
 
