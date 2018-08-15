@@ -160,7 +160,7 @@ a {
     .name {
       flex: 0 0 20%;
       margin-left: 2.5%;
-      font-size: 20%;
+      font-size: 60%;
       font-weight: lighter;
       color: rgb(240, 42, 24);
     }
@@ -174,7 +174,7 @@ a {
       flex-wrap: wrap;
       align-items: flex-end;
       justify-content: flex-start;
-      font-size: 20%;
+      font-size: 60%;
       flex: 0 0 55%;
     }
 
