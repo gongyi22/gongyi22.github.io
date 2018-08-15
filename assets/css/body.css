@@ -140,7 +140,15 @@ p {
 
 
 
-
+.time
+{
+  position: fixed;
+  bottom: 1%;
+  right:1%;
+  font-family: Quicksand, sans-serif;
+  font-size: 50%;
+  color:rgba(255, 0, 0, 0.62);
+}
 
 
 
