@@ -174,8 +174,8 @@ p {
 @media (min-device-width : 375px) and (max-device-width : 667px){
   .container
   {
-    margin-top:0%;
-    margin-bottom: 15%;
+    top:6%;
+    margin-bottom: 35%;
   }
 
   p {
@@ -195,8 +195,8 @@ p {
 @media (min-device-width : 414px) and (max-device-width : 736px){
   .container
   {
-    margin-top:0%;
-    margin-bottom: 15%;
+    top:6%;
+    margin-bottom: 35%;
   }
 
 
