@@ -25,7 +25,6 @@
   margin-bottom: 10%;
   position: absolute;
   top:25%;
-
 }
 
 .col1of2
@@ -40,7 +39,7 @@
 
 .sizing:hover
 {
-  opacity: 0.05;
+  opacity: 0.022;
 }
 
 
@@ -128,6 +127,29 @@ p {
 }
 
 
+.copyright
+{
+  position: fixed;
+  bottom: 1%;
+  left:1%;
+  font-family: Quicksand, sans-serif;
+  font-size: 66%;
+  color:rgba(255, 0, 0, 1);
+  z-index: -1;
+}
+
+
+
+.time
+{
+  position: fixed;
+  bottom: 1%;
+  right:1%;
+  font-family: Quicksand, sans-serif;
+  font-size: 66%;
+  color:rgba(255, 0, 0, 0.62);
+}
+
 
 
 
@@ -148,20 +170,71 @@ p {
 
 
 
-/*6*/
-@media (min-device-width : 375px) and (max-device-width : 667px) and (-webkit-min-device-pixel-ratio : 2){
+/*iphone6*/
+@media (min-device-width : 375px) and (max-device-width : 667px){
   .container
   {
     top:6%;
+    margin-bottom: 35%;
   }
+
+  p {
+    margin: 0;
+    font-size: 1%;
+    color: rgba(0, 0, 0, 0);
+    font-weight: lighter;
+    z-index: -1;
+    text-align: center;
+  }
+
+  .copyright
+  {
+    font-size: 45%;
+  }
+
+
+
+  .time
+  {
+    font-size: 45%;
+  }
+
+
  }
 
-/*6+*/
-@media (min-device-width : 414px) and (max-device-width : 736px) and (-webkit-min-device-pixel-ratio : 3){
+/*iphone6+*/
+@media (min-device-width : 414px) and (max-device-width : 736px){
   .container
   {
     top:6%;
+    margin-bottom: 35%;
   }
+
+
+  p {
+    margin: 0;
+    font-size: 1%;
+    color: rgba(0, 0, 0, 0);
+    font-weight: lighter;
+    z-index: -1;
+    text-align: center;
+  }
+
+
+  .copyright
+  {
+    font-size: 45%;
+  }
+
+
+
+  .time
+  {
+    font-size: 45%;
+  }
+
+
+
 }
 
 
