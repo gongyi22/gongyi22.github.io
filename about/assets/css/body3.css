@@ -20,8 +20,8 @@
 .container{
   margin-top:10%;
   margin-bottom: 5%;
-  padding-left:7%;
-  padding-right: 7%;
+  padding-left:10%;
+  padding-right:10%;
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
@@ -44,8 +44,8 @@
   line-height: 150%;
   color: rgb(103, 103, 103);
   padding-right: 0;
-  margin-bottom: 15%;
-  flex:0 0 35%;
+  margin-bottom: 2%;
+  flex:0 0 34%;
 }
 
 .button{

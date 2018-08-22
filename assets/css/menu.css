@@ -120,60 +120,52 @@ a {
 
 
 
+/* NAV resize section */
 
 
-.resizelogo{
+
+
+.logo.resizelogo{
   max-width: 7%;
   transition: 0.35s ease-in-out;
 }
 
-.resizebg{
-  height: 13%;
+.titlebar_wrapper.resizebg{
+  height: 10.6%;
+  background-color: rgba(255, 255, 255, 0.9);
   transition: 0.35s ease-in-out;
 }
 
-.resizemargin{
-  margin-top: 2%;
+.titlebar.resizemargin{
+  margin-top: 1%;
   transition: 0.35s ease-in-out;
 }
 
 
+
+/* NAV resize section */
 
 
 /*menu*/
 
 
 
-/* media section */
 
 
 
 
-/* bigscreen */
-@media (min-width: 1500px){
-  .titlebar_wrapper{
-    height: 28%;}
- }
 
- @media (min-width: 1640px){
-   .titlebar_wrapper{
-     height: 32%;}
-  }
-
-
-
-
-/* mobile phone */
+/* Media section */
 
 /*6*/
 @media (min-device-width : 375px) and (max-device-width : 667px) and (-webkit-min-device-pixel-ratio : 2){
-<<<<<<< HEAD
+
   .titlebar_wrapper{
     height: 11%;
     z-index: 99;}
 
 
-=======
+
    .titlebar_wrapper{
      height: 9%;
     }
@@ -226,22 +218,22 @@ a {
       flex: 0 0 13%;
       margin-left: 5%;
     }
->>>>>>> 4a9e5ba517bebb19108a75b08acb9fd59b7c2a97
+
 
  }
 
 
 /*6+*/
 @media (min-device-width : 414px) and (max-device-width : 736px) and (-webkit-min-device-pixel-ratio : 3){
+
   .titlebar_wrapper{
-<<<<<<< HEAD
     height: 11%;
     z-index: 99;}
 
 
-  
-=======
-    height: 9%;
+
+   .titlebar_wrapper{
+     height: 9%;
     }
 
 
@@ -256,7 +248,7 @@ a {
     .name {
       flex: 0 0 20%;
       margin-left: 2.5%;
-      font-size: 20%;
+      font-size: 60%;
       font-weight: lighter;
       color: rgb(240, 42, 24);
     }
@@ -270,7 +262,7 @@ a {
       flex-wrap: wrap;
       align-items: flex-end;
       justify-content: flex-start;
-      font-size: 20%;
+      font-size: 50%;
       flex: 0 0 55%;
     }
 
@@ -293,17 +285,11 @@ a {
       margin-left: 5%;
     }
 
->>>>>>> 4a9e5ba517bebb19108a75b08acb9fd59b7c2a97
 
-
+ }
 
 }
 
 
 
-
-
-
-
-
-/* media section */
+/* Media section */

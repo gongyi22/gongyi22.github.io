@@ -8,7 +8,7 @@ $(document).ready(function() {
 
 
 $(function() {
-  if($(window).scrollTop() >= 150) {
+  if($(window).scrollTop() >= 140) {
     $('.logo').addClass('resizelogo');
     $('.titlebar_wrapper').addClass('resizebg');
     $('.titlebar').addClass('resizemargin');
