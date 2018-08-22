@@ -7,33 +7,23 @@ $(document).ready(function() {
 
 
 
-$(function() {
-  if($(window).scrollTop() >= 140) {
+
+
+
+
+
+
+$(window).scroll(function() {
+  if ($(document).scrollTop() > 140) {
     $('.logo').addClass('resizelogo');
     $('.titlebar_wrapper').addClass('resizebg');
     $('.titlebar').addClass('resizemargin');
-  }
-  else {
+  } else {
     $('.logo').removeClass('resizelogo');
     $('.titlebar_wrapper').removeClass('resizebg');
     $('.titlebar').removeClass('resizemargin');
   }
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
