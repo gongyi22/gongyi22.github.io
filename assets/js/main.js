@@ -14,7 +14,7 @@ $(document).ready(function() {
 
 
 $(window).scroll(function() {
-  if ($(document).scrollTop() > 140) {
+  if ($(document).scrollTop() > 150) {
     $('.logo').addClass('resizelogo');
     $('.titlebar_wrapper').addClass('resizebg');
     $('.titlebar').addClass('resizemargin');

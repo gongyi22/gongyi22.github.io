@@ -125,18 +125,18 @@ a {
 
 
 
-.logo.resizelogo{
+.resizelogo{
   max-width: 7%;
   transition: 0.35s ease-in-out;
 }
 
-.titlebar_wrapper.resizebg{
+.resizebg{
   height: 10.6%;
   background-color: rgba(255, 255, 255, 0.9);
   transition: 0.35s ease-in-out;
 }
 
-.titlebar.resizemargin{
+.resizemargin{
   margin-top: 1%;
   transition: 0.35s ease-in-out;
 }
