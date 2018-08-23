@@ -81,23 +81,62 @@ color: rgb(103, 103, 103);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*body end*/
+
+
+
+
+/* media section */
+
+
+
+
+
+
+
+/* 6 */
+
+@media (min-device-width : 375px) and (max-device-width : 667px) and (-webkit-min-device-pixel-ratio : 2){
+
+  .title
+  {
+    font-size: 170%;
+  }
+
+  .content
+  {
+    font-size: 80%;;
+  }
+
+
+}
+
+
+
+
+
+
+
+/* 6+ */
+@media (min-device-width : 414px) and (max-device-width : 736px) and (-webkit-min-device-pixel-ratio : 3){
+
+
+
+  .title
+  {
+    font-size: 170%;
+  }
+
+  .content
+  {
+    font-size: 80%;;
+  }
+
+
+}
+
+
+
+
+
+/* Media section  */

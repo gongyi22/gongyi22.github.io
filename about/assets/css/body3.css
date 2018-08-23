@@ -83,6 +83,7 @@
 
 .contenttitle1{
   font-size: 200%;
+  margin: 0;
 }
 
 
@@ -91,6 +92,10 @@
 .contenttitle2{
   font-size: 180%;
 }
+
+
+
+
 
 
 
@@ -143,6 +148,18 @@
   }
 
 
+  .contenttitle1{
+    margin-top: 5%;
+  }
+
+
+  .contenttitle2{
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+
+
 }
 
 
@@ -190,16 +207,25 @@
   }
 
 
+
+
+  .contenttitle1{
+    margin-top: 5%;
+  }
+
+
+  .contenttitle2{
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+
+
+
 }
 
 
 
-
-
-
-
-
-}
 
 
 /* Media section  */
