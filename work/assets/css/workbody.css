@@ -27,7 +27,7 @@
   font-family: Quicksand, sans-serif;
   font-weight: lighter;
   font-size: 220%;
-  color: rgb(69, 69, 69);
+  color: rgb(240, 42, 24);
   margin-bottom: 1.5%;
 }
 
@@ -104,14 +104,17 @@
 .line
 {
   margin-top: 15%;
-  opacity: 0.5
+  margin-left: 10%;
+  margin-right: 10%;
+  opacity: 0.2
 }
 
 
 .icon
 {
   margin-top:1.5%;
-  max-width: 5%;
+  max-width: 4%;
+
 }
 
 
@@ -125,8 +128,11 @@
 
 
 
-
-
+.iconspaceleftbottom
+{
+  margin-left: 10%;
+  margin-bottom: 10%;
+}
 
 
 
