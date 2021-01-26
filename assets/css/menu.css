@@ -25,6 +25,7 @@ a {
 .insta {
   max-width: 30%;
   opacity: 0.6;
+  transition: 0.2s ease-in-out;
 }
 
 .titlebar_wrapper{
@@ -87,6 +88,7 @@ a {
 .work:hover a {
   color: rgb(240, 42, 24);
   cursor: pointer;
+  transition: ease-in-out, 0.5s;
 }
 
 .about {
@@ -96,6 +98,7 @@ a {
 .about:hover a {
   color: rgb(240, 42, 24);
   cursor: pointer;
+  transition: ease-in-out, 0.5s;
 }
 
 .contact {
@@ -105,17 +108,20 @@ a {
 .contact:hover a {
   color: rgb(240, 42, 24);
   cursor: pointer;
+  transition: ease-in-out, 0.5s;
 }
 
 
 .inslink {
   flex: 0 0 10%;
+
 }
 
-.inslink:hover a {
+
+.insta:hover {
+  opacity: 0.2;
   cursor: pointer;
 }
-
 
 
 
